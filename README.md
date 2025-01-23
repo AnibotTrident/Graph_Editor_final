@@ -40,5 +40,5 @@ Follow these steps to set up and run the Graph Editor locally.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/AnibotTrident/Graph-Editor.git
+   git clone https://github.com/AnibotTrident/Graph_Editor_final.git
    cd Graph-Editor
